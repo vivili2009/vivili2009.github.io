@@ -580,7 +580,7 @@ comments:
 # Disqus
 disqus:
   enable: false
-  shortname:
+  shortname: viviliart
   count: true
 
 # DisqusJS
