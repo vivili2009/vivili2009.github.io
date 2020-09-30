@@ -6,7 +6,7 @@
   <link href="https://vivili.art/atom.xml" rel="self"/>
   
   <link href="https://vivili.art/"/>
-  <updated>2020-09-30T07:49:02.280Z</updated>
+  <updated>2020-09-30T08:03:58.509Z</updated>
   <id>https://vivili.art/</id>
   
   <author>
@@ -15,6 +15,122 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Sneaker</title>
+    <link href="https://vivili.art/2020/09/30/Sneaker/"/>
+    <id>https://vivili.art/2020/09/30/Sneaker/</id>
+    <published>2020-09-30T08:03:30.000Z</published>
+    <updated>2020-09-30T08:03:58.509Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/sneaker.jpeg" alt="alt"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/sneaker.jpeg&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Leaf</title>
+    <link href="https://vivili.art/2020/09/30/Leaf/"/>
+    <id>https://vivili.art/2020/09/30/Leaf/</id>
+    <published>2020-09-30T08:01:44.000Z</published>
+    <updated>2020-09-30T08:03:07.004Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/Leaf.jpeg" alt="alt"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/Leaf.jpeg&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="2020" scheme="https://vivili.art/tags/2020/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Moon</title>
+    <link href="https://vivili.art/2020/09/30/Moon/"/>
+    <id>https://vivili.art/2020/09/30/Moon/</id>
+    <published>2020-09-30T08:01:30.000Z</published>
+    <updated>2020-09-30T08:02:40.436Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/Moon.jpeg" alt="alt"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/Moon.jpeg&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="2020" scheme="https://vivili.art/tags/2020/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Father</title>
+    <link href="https://vivili.art/2020/09/30/Father/"/>
+    <id>https://vivili.art/2020/09/30/Father/</id>
+    <published>2020-09-30T07:58:53.000Z</published>
+    <updated>2020-09-30T07:59:51.257Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/father5.jpeg" alt="alt"></p><p><img src="/images/father1.jpeg" alt="alt"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/father5.jpeg&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/father1.jpeg&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="2019" scheme="https://vivili.art/tags/2019/"/>
+    
+    <category term="2020" scheme="https://vivili.art/tags/2020/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>International Dot Day</title>
+    <link href="https://vivili.art/2020/09/30/International-Dot-Day/"/>
+    <id>https://vivili.art/2020/09/30/International-Dot-Day/</id>
+    <published>2020-09-30T07:58:12.000Z</published>
+    <updated>2020-09-30T07:58:44.495Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/Dot_Day.jpeg" alt="alt"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/Dot_Day.jpeg&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="2020" scheme="https://vivili.art/tags/2020/"/>
+    
+  </entry>
   
   <entry>
     <title>Eye</title>
@@ -352,121 +468,6 @@
       
       
     <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/sunset.jpg&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="2017" scheme="https://vivili.art/tags/2017/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Japanese Koi</title>
-    <link href="https://vivili.art/2020/09/29/Koi/"/>
-    <id>https://vivili.art/2020/09/29/Koi/</id>
-    <published>2020-09-29T12:07:19.000Z</published>
-    <updated>2020-09-30T07:03:52.607Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/images/koi.jpg" alt="alt"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/koi.jpg&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="2017" scheme="https://vivili.art/tags/2017/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Big Ben</title>
-    <link href="https://vivili.art/2020/09/29/Big-Ben/"/>
-    <id>https://vivili.art/2020/09/29/Big-Ben/</id>
-    <published>2020-09-29T12:06:56.000Z</published>
-    <updated>2020-09-29T12:09:34.499Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/images/city.jpg" alt="alt"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/city.jpg&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="2019" scheme="https://vivili.art/tags/2019/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Swan</title>
-    <link href="https://vivili.art/2020/09/29/Swan/"/>
-    <id>https://vivili.art/2020/09/29/Swan/</id>
-    <published>2020-09-29T12:06:45.000Z</published>
-    <updated>2020-09-30T07:04:51.467Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/images/swan.jpg" alt="alt"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/swan.jpg&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="2018" scheme="https://vivili.art/tags/2018/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Aircraft</title>
-    <link href="https://vivili.art/2020/09/29/Aircraft/"/>
-    <id>https://vivili.art/2020/09/29/Aircraft/</id>
-    <published>2020-09-29T12:06:41.000Z</published>
-    <updated>2020-09-30T07:02:33.699Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/images/aircraft.jpg" alt="alt"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/aircraft.jpg&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="2019" scheme="https://vivili.art/tags/2019/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Lizard</title>
-    <link href="https://vivili.art/2020/09/29/Lizard/"/>
-    <id>https://vivili.art/2020/09/29/Lizard/</id>
-    <published>2020-09-29T12:06:27.000Z</published>
-    <updated>2020-09-30T07:04:12.550Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/images/lizard.jpg" alt="alt"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/lizard.jpg&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
 </summary>
       
     
