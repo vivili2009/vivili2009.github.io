@@ -6,7 +6,7 @@
   <link href="https://vivili.art/atom.xml" rel="self"/>
   
   <link href="https://vivili.art/"/>
-  <updated>2020-09-30T10:38:10.722Z</updated>
+  <updated>2020-09-30T10:52:54.039Z</updated>
   <id>https://vivili.art/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>fruit</title>
+    <title>Bear</title>
+    <link href="https://vivili.art/2020/09/30/Bear/"/>
+    <id>https://vivili.art/2020/09/30/Bear/</id>
+    <published>2020-09-30T10:47:53.000Z</published>
+    <updated>2020-09-30T10:52:54.039Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/Bear.jpeg" alt="alt"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/Bear.jpeg&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="2018" scheme="https://vivili.art/tags/2018/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Fruit</title>
     <link href="https://vivili.art/2020/09/30/fruit/"/>
     <id>https://vivili.art/2020/09/30/fruit/</id>
     <published>2020-09-30T10:31:04.000Z</published>
-    <updated>2020-09-30T10:38:10.722Z</updated>
+    <updated>2020-09-30T11:01:45.733Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/fruit.jpeg" alt="alt"></p><p><img src="/images/fruit2.jpeg" alt="alt"></p>]]></content>
     
@@ -453,32 +476,6 @@
     
     
     <category term="2018" scheme="https://vivili.art/tags/2018/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Lion</title>
-    <link href="https://vivili.art/2020/09/30/Lion/"/>
-    <id>https://vivili.art/2020/09/30/Lion/</id>
-    <published>2020-09-30T07:36:18.000Z</published>
-    <updated>2020-09-30T08:49:17.939Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/images/Lion.jpg" alt="alt"></p><p><img src="/images/Lion2.jpeg" alt="alt"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/Lion.jpg&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/Lion2.jpeg&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="2016" scheme="https://vivili.art/tags/2016/"/>
-    
-    <category term="2020" scheme="https://vivili.art/tags/2020/"/>
     
   </entry>
   
