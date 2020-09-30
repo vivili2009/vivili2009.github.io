@@ -394,7 +394,7 @@
     <link href="https://vivili.art/2020/09/30/Lion/"/>
     <id>https://vivili.art/2020/09/30/Lion/</id>
     <published>2020-09-30T07:36:18.000Z</published>
-    <updated>2020-09-30T08:48:51.783Z</updated>
+    <updated>2020-09-30T08:49:17.939Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/Lion.jpg" alt="alt"></p><p><img src="/images/Lion2.jpeg" alt="alt"></p>]]></content>
     
@@ -410,6 +410,8 @@
     
     
     <category term="2016" scheme="https://vivili.art/tags/2016/"/>
+    
+    <category term="2020" scheme="https://vivili.art/tags/2020/"/>
     
   </entry>
   
