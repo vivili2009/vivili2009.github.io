@@ -6,7 +6,7 @@
   <link href="https://vivili.art/atom.xml" rel="self"/>
   
   <link href="https://vivili.art/"/>
-  <updated>2020-09-30T08:40:19.299Z</updated>
+  <updated>2020-09-30T10:16:38.163Z</updated>
   <id>https://vivili.art/</id>
   
   <author>
@@ -15,6 +15,52 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hot Air Balloon</title>
+    <link href="https://vivili.art/2020/09/30/Hot-Air-Balloon/"/>
+    <id>https://vivili.art/2020/09/30/Hot-Air-Balloon/</id>
+    <published>2020-09-30T09:15:20.000Z</published>
+    <updated>2020-09-30T10:16:38.163Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/my_dream_2.jpeg" alt="alt"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/my_dream_2.jpeg&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="2019" scheme="https://vivili.art/tags/2019/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Future Me</title>
+    <link href="https://vivili.art/2020/09/30/Future-Me/"/>
+    <id>https://vivili.art/2020/09/30/Future-Me/</id>
+    <published>2020-09-30T09:13:32.000Z</published>
+    <updated>2020-09-30T10:16:32.919Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/future.jpeg" alt="alt"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/future.jpeg&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="2018" scheme="https://vivili.art/tags/2018/"/>
+    
+  </entry>
   
   <entry>
     <title>Under The Ocean</title>
@@ -63,26 +109,23 @@
   </entry>
   
   <entry>
-    <title>My Dream</title>
+    <title>My Memory</title>
     <link href="https://vivili.art/2020/09/30/My-Dream/"/>
     <id>https://vivili.art/2020/09/30/My-Dream/</id>
     <published>2020-09-30T08:33:18.000Z</published>
-    <updated>2020-09-30T08:36:58.571Z</updated>
+    <updated>2020-09-30T10:16:22.741Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/images/my_dream_1.jpeg" alt="alt"></p><p><img src="/images/my_dream_2.jpeg" alt="alt"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/images/my_dream_1.jpeg" alt="alt"></p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/my_dream_1.jpeg&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/my_dream_2.jpeg&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
 </summary>
       
     
     
     
-    
-    <category term="2019" scheme="https://vivili.art/tags/2019/"/>
     
     <category term="2018" scheme="https://vivili.art/tags/2018/"/>
     
@@ -435,52 +478,6 @@
     
     
     <category term="2016" scheme="https://vivili.art/tags/2016/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Deer</title>
-    <link href="https://vivili.art/2020/09/30/Deer/"/>
-    <id>https://vivili.art/2020/09/30/Deer/</id>
-    <published>2020-09-30T07:34:49.000Z</published>
-    <updated>2020-09-30T07:35:07.544Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/images/Deer.jpeg" alt="alt"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/Deer.jpeg&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="2019" scheme="https://vivili.art/tags/2019/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Rooster</title>
-    <link href="https://vivili.art/2020/09/30/Rooster/"/>
-    <id>https://vivili.art/2020/09/30/Rooster/</id>
-    <published>2020-09-30T07:34:05.000Z</published>
-    <updated>2020-09-30T07:34:37.395Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/images/Rooster.jpg" alt="alt"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/Rooster.jpg&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="2017" scheme="https://vivili.art/tags/2017/"/>
     
   </entry>
   
