@@ -6,7 +6,7 @@
   <link href="https://vivili.art/atom.xml" rel="self"/>
   
   <link href="https://vivili.art/"/>
-  <updated>2020-09-30T07:11:21.180Z</updated>
+  <updated>2020-09-30T07:13:10.920Z</updated>
   <id>https://vivili.art/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://vivili.art/2020/09/30/Spring/"/>
     <id>https://vivili.art/2020/09/30/Spring/</id>
     <published>2020-09-30T07:08:25.000Z</published>
-    <updated>2020-09-30T07:11:21.180Z</updated>
+    <updated>2020-09-30T07:13:10.920Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/spring.jpg" alt="alt"></p>]]></content>
     
@@ -34,6 +34,8 @@
     
     
     
+    
+    <category term="2016" scheme="https://vivili.art/tags/2016/"/>
     
   </entry>
   
