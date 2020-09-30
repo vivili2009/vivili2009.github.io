@@ -6,7 +6,7 @@
   <link href="https://vivili.art/atom.xml" rel="self"/>
   
   <link href="https://vivili.art/"/>
-  <updated>2020-09-30T10:16:38.163Z</updated>
+  <updated>2020-09-30T10:35:12.290Z</updated>
   <id>https://vivili.art/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>fruit</title>
+    <link href="https://vivili.art/2020/09/30/fruit/"/>
+    <id>https://vivili.art/2020/09/30/fruit/</id>
+    <published>2020-09-30T10:31:04.000Z</published>
+    <updated>2020-09-30T10:35:12.290Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/fruit.jpeg" alt="alt"></p><p><img src="/images/fruit2.jpeg" alt="alt"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/fruit.jpeg&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/fruit2.jpeg&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hot Air Balloon</title>
@@ -455,29 +477,6 @@
     <category term="2016" scheme="https://vivili.art/tags/2016/"/>
     
     <category term="2020" scheme="https://vivili.art/tags/2020/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Dress</title>
-    <link href="https://vivili.art/2020/09/30/Dress/"/>
-    <id>https://vivili.art/2020/09/30/Dress/</id>
-    <published>2020-09-30T07:35:47.000Z</published>
-    <updated>2020-09-30T07:36:00.118Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/images/dress.jpg" alt="alt"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/dress.jpg&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="2016" scheme="https://vivili.art/tags/2016/"/>
     
   </entry>
   
